@@ -13,9 +13,11 @@ h1{
 	height:100%;
 	width:100%;
 	border:1px solid black;
+	background-color:#f5f5f5;
+	padding:10px;
 }
 .author{
-	align-itemsL:right;
+	text-align:right;
 	font-style:italic;
 	
 }
